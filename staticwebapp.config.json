@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "route": "/note",
+      "rewrite": "/index.html"
+    }
+  ]
+}
